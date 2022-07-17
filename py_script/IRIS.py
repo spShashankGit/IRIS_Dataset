@@ -17,7 +17,7 @@ import numpy as np
 # In[3]:
 
 
-df = pd.read_csv('Dataset/iris.data', index_col=0, header=None)
+df = pd.read_csv('../Dataset/iris.data', index_col=0, header=None)
 
 
 # ##### Perform 1 hot encoding on the dataset
