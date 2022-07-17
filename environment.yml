@@ -1,0 +1,5 @@
+name: IrisDatasetEnv
+channels:
+  - defaults
+  - conda-forge
+prefix: /home/rgb/anaconda3/envs/IrisDatasetEnv
